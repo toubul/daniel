@@ -6,8 +6,8 @@
 </script>
 
 <div class="text-white">
-	<Navigation />
+	<!-- <Navigation /> -->
 
 	<Container><slot /></Container>
-	<Footer />
+	<!-- <Footer /> -->
 </div>
